@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.1.51'
+    ext.kotlin_version = '1.2.0'
 
     repositories {
         mavenLocal()
@@ -34,6 +34,7 @@ dependencies {
     compile 'no.tornado:tornadofx:1.7.12'
     testCompile 'junit:junit:4.12'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
+    compile "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
     compile "org.apache.logging.log4j:log4j-api:2.10.0"
     compile "org.apache.logging.log4j:log4j-core:2.10.0"
     compile "org.jetbrains:annotations:15.0"

@@ -9,7 +9,6 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 import com.qualcomm.robotcore.util.RobotLog;
 import com.qualcomm.robotcore.util.ThreadPool;
 import org.jetbrains.annotations.NotNull;
-import org.openftc.network.NetworkConnectionHandler;
 
 import java.util.concurrent.LinkedBlockingDeque;
 

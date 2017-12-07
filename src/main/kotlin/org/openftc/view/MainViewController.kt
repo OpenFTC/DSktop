@@ -1,6 +1,6 @@
 package org.openftc.view;
 
-import org.openftc.network.NetworkConnectionHandler
+import org.firstinspires.ftc.robotcore.internal.network.NetworkConnectionHandler
 import tornadofx.*
 import java.net.InetAddress
 import java.net.UnknownHostException
