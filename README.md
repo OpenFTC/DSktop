@@ -1,6 +1,4 @@
 # DSktop
-An unofficial driver station app for your computer
+An unofficial driver station app for your computer that controls an FTC robot
 
-This program is currently broken but under active development. 
-
-It will require the use of an OpenFTC-based Robot Controller.
+This project is not under active development. A revival of this project should be based on the OpenRC git history, so as to keep pace with the latest version of Robocol.
